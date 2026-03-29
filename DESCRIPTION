@@ -1,0 +1,13 @@
+Package: Friedman
+Title: Assignment 10
+Version: 0.0.0.9000
+Authors@R: 
+    person("Destini", "Randall", , "destinirandall@yahoo.com", role = c("aut", "cre"))
+Description: Learning the structure of an R package and the role of the description file.
+Depends: R (>= 3.1.2)
+Imports: ggplot2, dplyr
+License: CC0
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
+LazyData: true
