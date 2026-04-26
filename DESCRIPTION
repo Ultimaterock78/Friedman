@@ -1,9 +1,9 @@
 Package: RandallRecipes
-Title: Analyzing Recipes and Their Characteristics
+Title: Recipe Data Exploration
 Version: 0.0.0.9000
 Authors@R: 
-    person("Destini", "Randall", "destinirandall@yahoo.com", role = c("aut", "cre"))
-Description: This package provides a dataset of thousands of recipes and uses functions for filtering, comparing, and visualizing them. Users can search for specific recipes, generate random ones, and even filter them based on what ingredients they own or how much time they have. There is also a function allowing users to graph recipes and compare their characteristics. This package is intended for culinary students, chefs, and anyone interested in exploring recipe data.
+    person("Destini", "Randall", email = "destinirandall@yahoo.com", role = c("aut", "cre"))
+Description: This package provides a dataset of recipes and uses functions for filtering, comparing, and visualizing them. Users can search for specific recipes, generate random ones, and filter them based on ingredients or time. There is also a function allowing users to graph recipes and compare their characteristics. This package is intended for culinary students, chefs, and anyone interested in exploring recipe data.
 Depends: R (>= 3.1.2)
 Imports: ggplot2, dplyr, stringr
 License: CC0
